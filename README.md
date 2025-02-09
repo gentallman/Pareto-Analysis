@@ -1,10 +1,15 @@
-### **Pareto Table and Pareto Analysis**  
+
+<h2 align="center">
+Pareto Table and Pareto Analysis
+</h2>  
+
+
 
 A **Pareto Table** is a tabular representation of data used in **Pareto Analysis**, which follows the **Pareto Principle (80/20 rule)**. This principle states that **80% of effects come from 20% of causes**, meaning a small number of factors often contribute to most of the outcomes.  
 
 ---
 
-## **What is Pareto Analysis?**  
+### **What is Pareto Analysis?**  
 **Pareto Analysis** is a decision-making technique used to identify the most significant factors in a dataset. It helps prioritize issues, resources, or improvements based on their impact. It is widely used in **quality control, business process improvement, and customer service analysis**.  
 
 ### **Steps in Pareto Analysis**
