@@ -15,6 +15,7 @@ A **Pareto Table** is a tabular representation of data used in **Pareto Analysis
 
 <div align="justify"> 
 
+
 ## **What is Pareto Analysis?**  
 **Pareto Analysis** is a decision-making technique used to identify the most significant factors in a dataset. It helps prioritize issues, resources, or improvements based on their impact. It is widely used in **quality control, business process improvement, and customer service analysis**.  
 
