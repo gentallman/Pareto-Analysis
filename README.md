@@ -5,7 +5,14 @@ Pareto Table and Pareto Analysis
 
 <div align="justify"> 
 
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/c51358d4-737b-4a34-9f7c-08fb9d6b496e" width="270">  
+</p>
+
+<div align="center"> 
+
 A **Pareto Table** is a tabular representation of data used in **Pareto Analysis**, which follows the **Pareto Principle (80/20 rule)**. This principle states that **80% of effects come from 20% of causes**, meaning a small number of factors often contribute to most of the outcomes.  
+</div>
 
 <p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMmY1YzQ2ZWMtMDNhZS00ZTA4LTk4NDUtNjNiOGE1YjEyNDkxIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
