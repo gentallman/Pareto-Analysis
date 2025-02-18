@@ -1,6 +1,6 @@
 
 <h2 align="center">
-Pareto Table and Pareto Analysis
+Pareto Analysis
 </h2>  
 
 <div align="justify"> 
