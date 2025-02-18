@@ -9,10 +9,6 @@ Pareto Analysis
   <img src="https://github.com/user-attachments/assets/c51358d4-737b-4a34-9f7c-08fb9d6b496e" width="270">  
 </p>
 
-<div align="center"> 
-
-A **Pareto Table** is a tabular representation of data used in **Pareto Analysis**, which follows the **Pareto Principle (80/20 rule)**. This principle states that **80% of effects come from 20% of causes**, meaning a small number of factors often contribute to most of the outcomes.  
-</div>
 
 <p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMmY1YzQ2ZWMtMDNhZS00ZTA4LTk4NDUtNjNiOGE1YjEyNDkxIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
@@ -21,7 +17,6 @@ A **Pareto Table** is a tabular representation of data used in **Pareto Analysis
 </p>
 
 <div align="justify"> 
-
 
 ## **What is Pareto Analysis?**  
 **Pareto Analysis** is a decision-making technique used to identify the most significant factors in a dataset. It helps prioritize issues, resources, or improvements based on their impact. It is widely used in **quality control, business process improvement, and customer service analysis**.  
@@ -47,6 +42,17 @@ A **Pareto Table** is used in Pareto Analysis to organize the data before visual
 In this example:
 - **80% of complaints** come from **Late Deliveries and Damaged Products**.
 - **Pareto Analysis** suggests focusing on these two categories first to achieve maximum impact.
+
+## Pareto Table
+A **Pareto Table** is a tabular representation of data used in **Pareto Analysis**, which follows the **Pareto Principle (80/20 rule)**. This principle states that **80% of effects come from 20% of causes**, meaning a small number of factors often contribute to most of the outcomes.  
+
+### Example
+
+<p align="center">  
+	<img src="https://github.com/user-attachments/assets/237a1bc0-d201-4b13-bb10-da060d31941e" width="500">  
+</p>
+
+It classifies top dealers into a category while grouping the rest as "Other" based on a sliding bar. For example, if the value is set to 20%, a specific number of dealers are categorized as "A+", meaning that 20% of the business revenue comes from these top dealers. This insight helps stakeholders make informed decisions about resource allocation and strategy.
 
 ## **Pareto Analysis in Action**
 ### **Use Cases of Pareto Analysis**
